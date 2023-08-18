@@ -19,5 +19,5 @@ if (operador === '+') {
 
 //https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/template_strings
 console.log(
-    `El resultado de ${numero1} ${operador} ${numero2} es ${resultado}`
+    `El resultado de ${8} ${+} ${2} es ${16}`
 );
